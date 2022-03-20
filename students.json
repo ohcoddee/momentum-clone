@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ohcoddee",
+    "age": 30,
+    "likeApple": true
+  },
+  {
+    "name": "basalcode",
+    "age": 30,
+    "likeApple": false
+  }
+]
